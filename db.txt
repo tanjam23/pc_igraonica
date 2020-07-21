@@ -1,0 +1,18 @@
+CREATE TABLE [dbo].[Users] (
+    [username]     NVARCHAR (50) NOT NULL,
+    [name]         NVARCHAR (50) NOT NULL,
+    [surname]      NVARCHAR (50) NOT NULL,
+    [address]      NVARCHAR (50) NULL,
+    [phone_number] INT           NOT NULL,
+    [gender]       NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([username] ASC)
+)
+
+CREATE TABLE [dbo].[Reservations]
+(
+	[code] INT NOT NULL PRIMARY KEY, 
+    [date] NVARCHAR(50) NOT NULL, 
+    [time] NVARCHAR(50) NOT NULL, 
+    [username] NVARCHAR(50) NOT NULL, 
+    CONSTRAINT [FK_Reservations_Users] FOREIGN KEY ([username]) REFERENCES [Users]([username]) ON DELETE CASCADE
+);

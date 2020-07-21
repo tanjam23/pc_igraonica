@@ -1,0 +1,23 @@
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\BusinessLayer.dll
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\DataLayer.dll
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\BusinessLayer.pdb
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\bin\Debug\DataLayer.pdb
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\PC igraonica.csprojAssemblyReference.cache
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllReservations.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllUsers.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DeleteUpdateReservation.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DeleteUser.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InsertReservations.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InsertUser.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservations.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Users.resources
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\PC igraonica.csproj.GenerateResource.cache
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\PC igraonica.csproj.CoreCompileInputs.cache
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\PC igraonica.csproj.CopyComplete
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

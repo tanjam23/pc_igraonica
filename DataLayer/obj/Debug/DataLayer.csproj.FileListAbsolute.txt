@@ -1,0 +1,6 @@
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\DataLayer\bin\Debug\DataLayer.dll
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\DataLayer\bin\Debug\DataLayer.pdb
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\DataLayer\obj\Debug\DataLayer.dll
+D:\Fakultet\IV godina\VII semestar\si\pc_igraonica-development\pc_igraonica-development\PC igraonica\DataLayer\obj\Debug\DataLayer.pdb
